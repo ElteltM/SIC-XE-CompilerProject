@@ -1,0 +1,7 @@
+C:\Users\Mahmoud El Telt\source\repos\SystemsProject\SystemsProject\bin\Debug\SystemsProject.exe.config
+C:\Users\Mahmoud El Telt\source\repos\SystemsProject\SystemsProject\bin\Debug\SystemsProject.exe
+C:\Users\Mahmoud El Telt\source\repos\SystemsProject\SystemsProject\bin\Debug\SystemsProject.pdb
+C:\Users\Mahmoud El Telt\source\repos\SystemsProject\SystemsProject\obj\Debug\SystemsProject.csprojAssemblyReference.cache
+C:\Users\Mahmoud El Telt\source\repos\SystemsProject\SystemsProject\obj\Debug\SystemsProject.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud El Telt\source\repos\SystemsProject\SystemsProject\obj\Debug\SystemsProject.exe
+C:\Users\Mahmoud El Telt\source\repos\SystemsProject\SystemsProject\obj\Debug\SystemsProject.pdb
